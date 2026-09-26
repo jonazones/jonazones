@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/jonazones)
+
 <!--
 **jonazones/jonazones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
