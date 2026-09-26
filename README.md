@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/jonazones)
+<img src="https://raw.githubusercontent.com/https://github.com/jonazones/gitrepo/output/snake.svg" alt="Snake animation" />
 
 <!--
 **jonazones/jonazones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
